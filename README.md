@@ -38,28 +38,4 @@ A synthetic dataset is generated to simulate weekly demand for 2 materials acros
 ## 📦 Use Case
 This project mimics SAP IBP functionality, providing value to supply chain analytics teams by demonstrating how predictive modeling can improve inventory and demand planning.
 
-## 📄 Output
-- Jupyter notebook with end-to-end modeling
-- Forecast plots for decision support
-- Exportable `.csv` files for Tableau dashboards
 
----
-
-## ✅ How to Run
-
-1. Clone the repo
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   ```bash
-   jupyter notebook product_demand_forecasting.ipynb
-   ```
-
----
-
-## 💼 Ideal For
-- Data Science Portfolios
-- Supply Chain Analytics Demonstrations
-- Job Interviews in SAP IBP, S/4HANA, or data-driven demand planning roles
